@@ -2,9 +2,9 @@
 
 
 
-###Each row represents a single diamond and the columns provide various attributes of the diamond such as carat weight, cut, color, clarity, depth, table, and price.
+### Each row represents a single diamond and the columns provide various attributes of the diamond such as carat weight, cut, color, clarity, depth, table, and price.
 
-##Summary of each column:
+## Summary of each column:
 
 1. Id: an identifier for each diamond.
 
